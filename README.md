@@ -1,4 +1,4 @@
-# ShenYiDong.github.io
+# shenyidong.github.io
 
 ### 个人介绍 ###：
 @从事Java开发工作，18年初开始工作，时常更新java学习案例与播客，谢谢支持。
